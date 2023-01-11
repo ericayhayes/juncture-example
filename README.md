@@ -49,7 +49,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       description="painting by Johannes Vermeer g" 
        license="public domain" 
        url="http://eyhayes.com/audubon/img/derivatives/iiif/obj1/manifest.json">
 
