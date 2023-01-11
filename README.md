@@ -39,14 +39,6 @@ While at Henderson, on the Ohio, I had, among many other wild birds, a fine male
        manifest="https://ericayhayes.github.io/audubon/img/derivatives/iiif/obj1/manifest.json"
        fit="contain">
 
-## Image
-
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
-       
-<param ve-image label="Girl with a Pearl Earring" description="painting by Johannes Vermeer" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/f/fa/Girl_with_a_Pearl_Earring_%28Full_Renovation%29.jpg">
-
 ## Map
 
 The Wild Turkey is the very first Plate in the _Birds of America_. Painted by Audubon at the Beechwoods plantation near St. Francisville, Louisiana in 1825.
@@ -54,9 +46,13 @@ The Wild Turkey is the very first Plate in the _Birds of America_. Painted by Au
 <param ve-map center="30.7878675, -91.3778455" zoom="10">
 
 
-## Image Test
+# Image
 
-<param ve-image title="Roasted Coffee Beans" url="http://eyhayes.com/audubon/img/cropped/obj1/default.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/41_Ruffed_Grouse.jpg/1024px-41_Ruffed_Grouse.jpg">
+_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
+dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
+20th century after the earring worn by the girl portrayed there.[^1]
+       
+<param ve-image label="Girl with a Pearl Earring" description="painting by Johannes Vermeer" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/f/fa/Girl_with_a_Pearl_Earring_%28Full_Renovation%29.jpg">
 
 
 
