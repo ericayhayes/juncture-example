@@ -41,7 +41,7 @@ While at Henderson, on the Ohio, I had, among many other wild birds, a fine male
 
 
 
-# Basic usage
+<!-- # Basic usage
 
 ## Image
 
@@ -52,13 +52,12 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="http://eyhayes.com/audubon/img/derivatives/iiif/obj1/manifest.json">
+       url="http://eyhayes.com/audubon/img/derivatives/iiif/obj1/manifest.json"> -->
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-map center="30.7878675,-91.3778455" zoom="10">
+The Wild Turkey is the very first Plate in the _Birds of America_. Painted by Audubon at the Beechwoods plantation near St. Francisville, Louisiana in 1825.
 
 ## Multiple viewers
 
