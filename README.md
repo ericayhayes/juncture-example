@@ -72,7 +72,7 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 <param ve-image 
        title="Wild Turkey"
-       manifest="https://ericayhayes.github.io/audubon/img/derivatives/iiif/obj1/manifest.json"
+       url="https://ericayhayes.github.io/juncture-example/John-J-Audubon.jpg"
        fit="contain">
 
 
