@@ -55,7 +55,8 @@ John James Audubon, Photo from The Lilly Library, Indiana University, Bloomingto
 
 ## Website Embed Example
 
-<param ve-iframe src="https://public.tableau.com/views/MinutesPerDayinUnpaidWorkDiversityinData/BearingtheWeight?:language=en-US&:display_count=n&:origin=viz_share_link">
+<param ve-iframe id="game_drop" src="https://public.tableau.com/app/profile/luke.abraham/viz/MinutesPerDayinUnpaidWorkDiversityinData/BearingtheWeight" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr">
+
 
 
 
