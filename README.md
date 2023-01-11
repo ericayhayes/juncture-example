@@ -41,7 +41,6 @@ While at Henderson, on the Ohio, I had, among many other wild birds, a fine male
 
 
 
-<!-- # Basic usage
 
 ## Image
 
@@ -60,20 +59,11 @@ The Wild Turkey is the very first Plate in the _Birds of America_. Painted by Au
 
 <param ve-map center="30.7878675, -91.3778455" zoom="10">
 
-<!-- ## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11"> -->
 
 ## Image Test
 
-
-
 <param ve-image 
-       label="Girl with a Pearl Earring" description="painting by Johannes Vermeer" 
+       label="John James Audubon"
        url="https://ericayhayes.github.io/juncture-example/John-J-Audubon.jpg">
 
 
