@@ -48,14 +48,12 @@ The Wild Turkey is the very first Plate in the _Birds of America_. Painted by Au
 
 # Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+John James Audubon, Photo from The Lilly Library, Indiana University, Bloomington[^1]
        
-<param ve-image label="Girl with a Pearl Earring" description="painting by Johannes Vermeer" license="public domain" url="https://ericayhayes.github.io/juncture-example/John-J-Audubon.jpg">
+<param ve-image label="John James Audubon" license="public domain" url="https://ericayhayes.github.io/juncture-example/John-J-Audubon.jpg">
 
 
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Lilly Library, John James Audubon](https://libraries.indiana.edu/lilly-library)
