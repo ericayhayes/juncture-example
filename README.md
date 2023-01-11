@@ -14,11 +14,23 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-#The Wild Turkey (Meleagris gallopavo), Volume 1, Plate 1
+# Sample visual essay
+
+This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+<param ve-image 
+       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+
+
+# The Wild Turkey (Meleagris gallopavo), Volume 1, Plate 1
 
 Painted on Beech Woods Plantation, Feliciana Parish, Louisiana, around 1825. One of Lucy Audubon’s students recalls that the bird he shot weighed 28 pounds. “Audubon pinned it up on the wall and spent several days sketching it… till it rotted and stank—I hated to lose so much good eating.”
 
 Like Benjamin Franklin, Audubon wanted the turkey to be the national bird of the United States of America, rather than the Bald Eagle (an admittedly better-looking bird that nevertheless cowardly steals food from others). In the plate, the stateliness of the turkey, which was also featured in Audubon’s personal seal (with the caption, “America My Country”), is offset by the small pile of excrement in the lower left corner. The bird’s massive body dominates the composition, while its smallish head and curved neck echo the more fragile botanicals in the background. The strong diagonal marked by the bird’s back contrasts with the stalk of sugar cane leaning the other way (cropped by the frame of the picture to increase the illusion). Audubon’s choice of the turkey as the subject of the first plate makes a powerful programmatic statement about his plans for Birds of America. It suggests that the human and the avian world are connected in multiple ways: birds are symbolic of human and political aspirations (and may even consent to being pets), but they are also human food. Throughout Birds of America, Audubon, catering to the hunters among his subscribers, meticulously records the taste of birds as he is eating his way through the American ornithological landscape.
+
+<param ve-image 
+       title="Wild Turkey"
+       manifest="https://ericayhayes.github.io/audubon/img/derivatives/iiif/obj1/manifest.json"
+       fit="contain">
 
 #From John James Audubon’s Ornithological Biography
 
