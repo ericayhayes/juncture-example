@@ -62,9 +62,8 @@ The Wild Turkey is the very first Plate in the _Birds of America_. Painted by Au
 
 ## Image Test
 
-<param ve-image 
-       label="John James Audubon"
-       url="https://ericayhayes.github.io/juncture-example/John-J-Audubon.jpg">
+<param ve-image title="Roasted Coffee Beans" url="https://ericayhayes.github.io/juncture-example/John-J-Audubon.jpg">
+
 
 
 # References
