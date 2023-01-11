@@ -51,7 +51,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="http://eyhayes.com/audubon/img/derivatives/iiif/obj1/manifest.json"> -->
+       url="http://eyhayes.com/audubon/img/derivatives/iiif/obj1/manifest.json">
 
 ## Map
 
@@ -62,7 +62,7 @@ The Wild Turkey is the very first Plate in the _Birds of America_. Painted by Au
 
 ## Image Test
 
-<param ve-image title="Roasted Coffee Beans" url="http://eyhayes.com/audubon/img/cropped/obj1/default.jpg">
+<param ve-image title="Roasted Coffee Beans" url="http://eyhayes.com/audubon/img/cropped/obj1/default.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/41_Ruffed_Grouse.jpg/1024px-41_Ruffed_Grouse.jpg">
 
 
 
