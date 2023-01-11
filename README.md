@@ -56,8 +56,9 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 ## Map
 
-<param ve-map center="30.7878675,-91.3778455" zoom="10">
 The Wild Turkey is the very first Plate in the _Birds of America_. Painted by Audubon at the Beechwoods plantation near St. Francisville, Louisiana in 1825.
+
+<param ve-map center="30.7878675, -91.3778455" zoom="10">
 
 ## Multiple viewers
 
