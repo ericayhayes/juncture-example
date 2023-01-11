@@ -14,6 +14,10 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
+<param ve-image 
+       title="Wild Turkey"
+       manifest="https://ericayhayes.github.io/audubon/img/derivatives/iiif/obj1/manifest.json"
+       fit="contain">
 
 # The Wild Turkey (Meleagris gallopavo), Volume 1, Plate 1
 
