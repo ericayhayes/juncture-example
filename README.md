@@ -39,19 +39,13 @@ While at Henderson, on the Ohio, I had, among many other wild birds, a fine male
        manifest="https://ericayhayes.github.io/audubon/img/derivatives/iiif/obj1/manifest.json"
        fit="contain">
 
-
-
-
 ## Image
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
 20th century after the earring worn by the girl portrayed there.[^1]
-<param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer g" 
-       license="public domain" 
-       url="http://eyhayes.com/audubon/img/derivatives/iiif/obj1/manifest.json">
+       
+<param ve-image label="Girl with a Pearl Earring" description="painting by Johannes Vermeer" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/f/fa/Girl_with_a_Pearl_Earring_%28Full_Renovation%29.jpg">
 
 ## Map
 
