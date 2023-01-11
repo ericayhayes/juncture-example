@@ -18,7 +18,9 @@
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/?url=http://eyhayes.com/audubon/img/derivatives/iiif/obj1/manifest.json">
+       title="Wild Turkey"
+       manifest="https://ericayhayes.github.io/audubon/img/derivatives/iiif/canvas/obj1.json">
+
 
 # Basic usage
 
