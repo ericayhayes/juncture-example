@@ -3,7 +3,7 @@
 <param ve-config 
        title="Selections from John James Audubon"
        author="Erica Hayes"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/41_Ruffed_Grouse.jpg/1024px-41_Ruffed_Grouse.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://ericayhayes.github.io/juncture-example/John-J-Audubon.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
